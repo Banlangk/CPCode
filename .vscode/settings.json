@@ -1,0 +1,14 @@
+{
+	
+	"cph.general.defaultLanguage": "cpp",
+	"cph.general.defaultLanguageTemplateFileLocation": "/home/zenith/workspace/CPCode/template.cpp",
+	"cph.general.firstTime": false,
+	"cph.general.saveLocation": "/home/zenith/workspace/CPCode/cph",
+	"cph.general.timeOut": 2000,
+	"cph.general.useShortCodeForcesName": true,
+	"cph.language.cpp.Args": "-std=c++20 -O2",
+	"cph.language.cpp.SubmissionCompiler": "GNU G++20 11.2.0 (64 bit, winlibs)",
+	"files.exclude": {
+		"**/.gitignore": true
+	}	
+}
